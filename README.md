@@ -1,4 +1,4 @@
-## Bike Sharing - Linear Regression 
+## 기상 정보에에 따른 서울시 공유 자전거 대여 회귀분석
 ### Dataset: bike sharing data
 <br/>
 
@@ -16,6 +16,18 @@
 
 
 ## Process
+
+1. 데이터 형식의 적절성 판단
+
+2. 이상치 및 결측치 여부
+
+3. 스케일링 및 분포변환
+
+4. 학습 : Linear Regression, Decision Tree Regressor / RandomForest Regressor / LASSO / Ridge 
+
+6. 교차검증
+
+8. 최적 파라미터 탐색 Grid Search
 
 ### I.
 
