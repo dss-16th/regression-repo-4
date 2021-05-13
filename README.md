@@ -1,16 +1,16 @@
-## 기상 정보에에 따른 서울시 공유 자전거 대여 회귀분석
-### Dataset: bike sharing data
-<br/>
-
-#### Linear Regression PROJECT
-#### - Period: 2021. 03. . ~ 2021. 03.25.
-#### - 인원 : 2명
-#### - Member: 장지혜, 정다은
 
 ![d](https://user-images.githubusercontent.com/75402257/112076230-5f5de180-8bbd-11eb-9745-8cb15ad84158.jpg)
 <br/>
 
 <br/>
+
+
+
+# 머신러닝 회귀분석 프로젝트
+<br/>
+
+#### 기간 : 2021. 03. . ~ 2021. 03.25
+#### Member: 정다은 장지혜
 
 
 
@@ -55,8 +55,9 @@
 
 ### Member / role
 
-- **장지혜** / 데이터 전처리
-- **정다은** / 데이터선정, 기획, readme 작성, EDA, 데이터 전처리, 모델링
+
+- **정다은** / 데이터 선정, 프로젝트 기획, readme 작성, EDA, 데이터 전처리, 모델링
+- **장지혜** / 데이터 전처리, EDA
 
 <br/>
 
